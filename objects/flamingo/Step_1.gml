@@ -17,4 +17,5 @@ if (is_check == true){
 
 else {
 	sprite_index = flamingo_still
+
 }
