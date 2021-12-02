@@ -1,16 +1,10 @@
 {
-  "spriteId": {
-    "name": "s_asteroid_test",
-    "path": "sprites/s_asteroid_test/s_asteroid_test.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "o_asteroid",
-    "path": "objects/o_asteroid/o_asteroid.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -29,11 +23,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "asteroids",
-    "path": "folders/Objets/asteroids.yy",
+    "name": "controllers",
+    "path": "folders/Objets/controllers.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_moving_up_asteroids",
+  "name": "room_controller",
   "tags": [],
   "resourceType": "GMObject",
 }
