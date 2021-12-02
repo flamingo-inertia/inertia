@@ -4,6 +4,7 @@
     {"id":{"name":"o_asteroid","path":"objects/o_asteroid/o_asteroid.yy",},"order":1,},
     {"id":{"name":"flamingo","path":"objects/flamingo/flamingo.yy",},"order":0,},
     {"id":{"name":"flamingo_forward","path":"sprites/flamingo_forward/flamingo_forward.yy",},"order":1,},
+    {"id":{"name":"test_space_background","path":"sprites/test_space_background/test_space_background.yy",},"order":2,},
     {"id":{"name":"s_asteroid_test","path":"sprites/s_asteroid_test/s_asteroid_test.yy",},"order":2,},
     {"id":{"name":"o_moving_down_asteroids","path":"objects/o_moving_down_asteroids/o_moving_down_asteroids.yy",},"order":3,},
     {"id":{"name":"flamingo_still","path":"sprites/flamingo_still/flamingo_still.yy",},"order":0,},
@@ -49,7 +50,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.7.603",
+    "IDEVersion": "2.3.4.583",
   },
   "resourceVersion": "1.4",
   "name": "inertia",
