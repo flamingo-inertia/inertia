@@ -7,4 +7,11 @@ vspeed = -flamingo.inertia_y
 if (mouse_check_button(mb_left)) {
 	flamingo.inertia_x += sign(flamingo.x - mouse_x) * flamingo.player_acceleration
 	flamingo.inertia_y += sign(flamingo.y - mouse_y) * flamingo.player_acceleration
+
+if (is_check == true){
+	sprite_index = flamingo_forward
+}
+else {
+	sprite_index = flamingo_still
+
 }
