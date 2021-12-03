@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "asteroids",
-    "path": "folders/Objets/asteroids.yy",
+    "name": "Objets",
+    "path": "folders/Objets.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_asteroid",
