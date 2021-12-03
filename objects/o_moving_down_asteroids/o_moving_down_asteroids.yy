@@ -29,8 +29,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "asteroids",
+    "path": "folders/Objets/asteroids.yy",
   },
   "resourceVersion": "1.0",
   "name": "o_moving_down_asteroids",

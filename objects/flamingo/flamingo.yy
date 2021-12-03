@@ -33,8 +33,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objets",
-    "path": "folders/Objets.yy",
+    "name": "flamingo",
+    "path": "folders/Objets/flamingo.yy",
   },
   "resourceVersion": "1.0",
   "name": "flamingo",
